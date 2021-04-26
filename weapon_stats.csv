@@ -1,0 +1,102 @@
+﻿weapon,range,type,strength,armour_penetration,damage,abilities,class
+astartes_shotgun,"12""",assault_2,4,0,1,"If the target is within half range, add 1 to this weapon’s strength.",ranged
+auto_bolt_rifle,"24""",assault_2,4,0,1,,ranged
+auto_pistol,"12""",pistol_1,3,0,1,,ranged
+barbed_strangler,"36""",assault_d6,5,-1,1,,ranged
+blast_pistol,"6""",pistol_1,8,-4,d6,,ranged
+blaster,"18""",assault_1,8,-4,d6,,ranged
+bolt_carbine,"24""",assault_2,4,0,1,,ranged
+bolt_pistol,"12""",pistol_1,4,0,1,,ranged
+bolt_rifle,"30""",rapid_fire_1,4,-1,1,,ranged
+boltgun,"24""",rapid_fire_1,4,0,1,,ranged
+burst_cannon,"18""",assault_4,5,0,1,,ranged
+combi_flamer_boltgun,"24""",rapid_fire_1,4,0,1,,ranged
+combi_flamer_flamer,"8""",assault_d6,4,0,1,This weapon automatically hits its target.,ranged
+combi_grav_boltgun,"24""",rapid_fire_1,4,0,1,,ranged
+combi_grav_gravgun,"8""",assault_d6,4,0,1,This weapon automatically hits its target.,ranged
+combi_melta_boltgun,"24""",rapid_fire_1,4,0,1,,ranged
+combi_melta_meltagun,"12""",assault_1,8,-4,d6,"if the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.",ranged
+combi_plasma_boltgun,"24""",rapid_fire_1,4,0,1,,ranged
+combi_plasma_plasma_gun,"24""",rapid_fire_1,7,-3,1,see plasma_gun,ranged
+dark_lance,"36""",heavy_1,8,-4,d6,,ranged
+deathspitter,"24""",assault_3,5,-1,1,,ranged
+devourer,"18""",assault_3,4,0,1,,ranged
+flamer,"8""",assault_d6,4,0,1,This weapon automatically hits its target.,ranged
+flesh_hook,"6""",assault_2,user,0,1,"this weapon can be fired within 1"" of an enemy model, and can target enemy models within 1"" of friendly models.",ranged
+fleshborer,"12""",assault_1,4,0,1,,ranged
+frag_grenade,"6""",grenade_d6,3,0,1,,ranged
+fusion_blaster,"18""",assault_1,8,-4,d6,"if the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.",ranged
+gauss_blaster,"24""",rapid_fire_1,5,-2,1,,ranged
+gauss_flayer,"24""",rapid_fire_1,4,-1,1,,ranged
+grav_gun,"18""",rapid_fire_1,5,-3,1,"If the target has a Save characteristic of 3+ or better, this weapon has a Damage of D3.",ranged
+grav_pistol,"12""",pistol_1,5,-3,1,"If the target has a Save characteristic of 3+ or better, this weapon has a Damage of D3.",ranged
+grenade_launcher_frag_grenade,"24""",assault_d6,3,0,1,,ranged
+grenade_launcher_krak_grenade,"24""",assault_1,6,-1,d3,,ranged
+heavy_bolt_pistol,"12""",pistol_1,4,-1,1,,ranged
+heavy_bolter,"36""",heavy_3,5,-1,1,,ranged
+hotshot_lasgun,"18""",rapid_fire_1,3,-2,1,,ranged
+hotshot_laspistol,"6""",pistol_1,3,-2,1,,ranged
+hotshot_volley_gun,"24""",heavy_4,4,-2,1,,ranged
+inferno_bolt_pistol,"12""",pistol_1,4,-2,1,,ranged
+inferno_boltgun,"24""",rapid_fire_1,4,-2,1,,ranged
+ion_rifle_standard,"30""",rapid_fire_1,7,-1,1,,ranged
+ion_rifle_overcharge,"30""",heavy_d3,8,-1,2,"if you make one or more unmodified hit rolls of 1, the bearer suffers a mortal wound after all of this weapon’s shots have been resolved.",ranged
+krak_grenade,"6""",grenade_1,6,-1,d3,,ranged
+lasgun,"24""",rapid_fire_1,3,0,1,,ranged
+laspistol,"12""",pistol_1,3,0,1,,ranged
+markerlight,"36""",heavy_1,-,-,-,markerlights (pg 169),ranged
+meltagun,"12""",assault_1,8,-4,d6,"If the target is within half range of this weapon, roll two dice when inflicting damage with it and discard the lowest result.",ranged
+missile_launcher_frag_missile,"48""",heavy_d6,4,0,1,,ranged
+missile_launcher_krak_missile,"48""",heavy_1,8,-2,d6,,ranged
+missile_pod,"36""",assault_2,7,-1,d3,,ranged
+phantasm_grenade_launcher,"18""",assault_d3,1,0,1,"if a model is hit by one or more phantasm grenade launchers, subtract 1 from its leadership characteristic until the end of the battle round.",ranged
+photon_grenade,"12""",grenade_d6,-,-,-,this weapon does not inflict any damage. your opponent must subtract 1 from hit rolls made for infantry models that have suffered any hits from photon grenades until the end of the battle round.,ranged
+plasma_grenade,"6""",grenade_d6,4,-1,1,,ranged
+plasma_gun_standard,"24""",rapid_fire_1,7,-3,1,,ranged
+plasma_gun_supercharge,"24""",rapid_fire_1,8,-3,2,"on an unmodified hit roll of 1, the bearer is taken out of action after all of this weapon’s shots have been resolved.",ranged
+plasma_pistol_standard,"12""",pistol_1,7,-3,1,,ranged
+plasma_pistol_supercharge,"12""",pistol_1,8,-3,2,"on an unmodified hit roll of 1, the bearer is taken out of action.",ranged
+pulse_blaster_close_range,"5""",assault_2,6,-2,1,,ranged
+pulse_blaster_medium_range,"10""",assault_2,5,-1,1,,ranged
+pulse_blaster_long_range,"15""",assault_2,4,0,1,,ranged
+pulse_carbine,"18""",assault_2,5,0,1,,ranged
+pulse_pistol,"12""",pistol_1,5,0,1,,ranged
+pulse_rifle,"30""",rapid_fire_1,5,0,1,,ranged
+rail_rifle,"30""",rapid_fire_1,6,-4,d3,"for each wound roll of 6+ made for this weapon, the target model suffers a mortal wound in addition to the normal damage.",ranged
+shock_grenade,"6""",grenade_d3,*,*,*,"this weapon does not inflict any damage. if an enemy infantry model is hit by any shock grenades, it is stunned; until the end of the next battle round that model cannot fire overwatch or be readied, and your opponent must subtract 1 from hit rolls made for the model.",ranged
+shredder,"12""",assault_d6,6,-1,1,"when attacking an infantry model, re-roll failed wound rolls for this weapon.",ranged
+smart_missile_system,"30""",heavy_4,5,0,1,"this weapon can be fired at models that are not visible to the bearer. if the target is not visible to the bearer, a 6 is required for a successful hit roll, irrespective of the firing model’s ballistic skill or any modifiers.",ranged
+sniper_rifle,"36""",heavy_1,4,0,1,"a model firing a sniper rifle does not suffer the penalty to hit rolls for the target being at long range. if you roll a wound roll of 6+ for this weapon, it inflicts a mortal wound in addition to its normal damage.",ranged
+soulreaper_cannon,"24""",heavy_4,5,-3,1,,ranged
+spinefists,"12""",pistol_*,3,0,1,"when a model fires this weapon, it makes a number of shots equal to its attacks characteristic.",ranged
+splinter_cannon,"36""",rapid_fire_3,4+,0,1,this weapon wounds on a 4+,ranged
+splinter_pistol,"12""",pistol_1,4+,0,1,this weapon wounds on a 4+,ranged
+splinter_rifle,"24""",rapid_fire_1,4+,0,1,this weapon wounds on a 4+,ranged
+stalker_bolt_rifle,"36""",heavy_1,4,-2,1,,ranged
+synaptic_disintegrator,"24""",rapid_fire_1,4,0,1,"the penalty to hit rolls for the target being at long range. each time you roll a wound roll of 6+ for this weapon, the target suffers a mortal wound in addition to any other damage.",ranged
+tesla_carbine,"24""",assault_2,5,0,1,each hit roll of 6+ with this weapon causes 3 hits.,ranged
+venom_cannon,"36""",assault_d3,8,-2,d3,,ranged
+warpflame_pistol,"6""",pistol_d6,3,-2,1,this weapon automatically hits its target.,ranged
+warpflamer,"8""",assault_d6,4,-2,1,this weapon automatically hits its target.,ranged
+,,,,,,,
+acid_maw,melee,melee,user,-3,1,,melee
+agoniser,melee,melee,4+,-2,1,this weapon wounds on a 4+.,melee
+bonesword,melee,melee,user,-2,1,a model armed with boneswords can make 1 additional attack with them in the fight phase,melee
+chainsword,melee,melee,user,0,1,"each time the bearer fights, it can make 1 additional attack with this weapon.",melee
+combat_knife,melee,melee,user,0,1,"each time the bearer fights, it can make 1 additional attack with this weapon.",melee
+flayer_claws,melee,melee,user,0,1,re-roll failed wound rolls for this weapon,melee
+force_stave,melee,melee,2,-1,d3,,melee
+grasping_talon,melee,melee,user,-1,2,,melee
+hekatarii_blade,melee,melee,user,0,1,"each time the bearer fights, it can make 1 additional attack with this weapon.",melee
+hydra_gauntlet,melee,melee,user,-1,1,"each time the bearer fights, it can make 1 additional attack with this weapon. you can re-roll failed wound rolls for this weapon",melee
+lash_whip_and_bonesword,melee,melee,user,-2,1,"if the bearer is taken out of action in the fight phase before it has made its attacks in that phase, it may immediately fight before being removed from the battlefield",melee
+power_fist,melee,melee,x2,-3,d3,"when attacking with this weapon, you must subtract 1 from the hit roll.",melee
+power_sword,melee,melee,user,-3,1,,melee
+razorflail,melee,melee,user,-1,1,"each time the bearer fights, it can make 1 additional attack with this weapon. you can re-roll failed hit rolls for this weapon.",melee
+rending_claw,melee,melee,user,-1,1,"each time you make a wound roll of 6+ for this weapon, that hit is resolved with an ap of -4.",melee
+scything_talon,melee,melee,user,0,1,"you can re-roll hit rolls of 1 for this weapon. if the bearer has more than one pair of scything talons, it can make 1 additional attack with this weapon each time it fights",melee
+shardnet_and_impaler,melee,melee,user,-1,2,"each time the bearer fights, it can make 1 additional attack with this weapon.",melee
+tzaangor_blade,melee,melee,user,-1,1,"each time the bearer fights, it can make 1 additional attack with this weapon.",melee
+,,,,,,,
+,"12""",assault_1,8,-4,d6,,
+,"8""",assault_d6,4,0,1,,

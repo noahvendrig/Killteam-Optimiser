@@ -1,0 +1,538 @@
+﻿faction,name,movement,weapon_skill,ballistic_skill,strength,toughness,wounds,attacks,leadership,save,max,weapon_loadouts
+adeptus_astartus,scout,"6""",3+,3+,4,4,1,1,7,4+,,"boltgun, bolt_pistol, frag_grenade, krak_grenade
+combat_knife, bolt_pistol, frag_grenade, krak_grenade
+astartes_shotgun, bolt_pistol, frag_grenade, krak_grenade
+sniper_rifle, bolt_pistol, frag_grenade, krak_grenade"
+adeptus_astartus,scout_gunner,"6""",3+,3+,4,4,1,1,7,4+,2,"boltgun, bolt_pistol, frag_grenade, krak_grenade
+heavy_bolter, bolt_pistol, frag_grenade, krak_grenade
+missile_launcher_frag_missile, bolt_pistol, frag_grenade, krak_grenade
+missile_launcher_krak_missile, bolt_pistol, frag_grenade, krak_grenade
+missile_launcher_frag_missile, bolt_pistol, frag_grenade, krak_grenade
+missile_launcher_krak_missile, bolt_pistol, frag_grenade, krak_grenade
+sniper_rifle, bolt_pistol, frag_grenade, krak_grenade"
+adeptus_astartus,scout_sergeant,"6""",3+,3+,4,4,1,2,8,4+,1,"boltgun, bolt_pistol, frag_grenade, krak_grenade
+astartes_shotgun, bolt_pistol, frag_grenade, krak_grenade
+chainsword, bolt_pistol, frag_grenade, krak_grenade
+sniper_rifle, bolt_pistol, frag_grenade, krak_gr"
+adeptus_astartus,tactical_marine,"6""",3+,3+,4,4,1,1,7,3+,,"boltgun, bolt_pistol, frag_grenade, krak_grenade"
+adeptus_astartus,tactical_marine_gunner,"6""",3+,3+,4,4,1,1,7,3+,2,"boltgun, bolt_pistol, frag_grenade, krak_grenade
+flamer, bolt_pistol, frag_grenade, krak_grenade
+melta_gun, bolt_pistol, frag_grenade, krak_grenade
+plasma_gun, bolt_pistol, frag_grenade, krak_grenade
+grav_gun, bolt_pistol, frag_grenade, krak_grenade"
+adeptus_astartus,tactical_sergeant,"6""",3+,3+,4,4,1,2,8,3+,1,"combi_flamer_boltgun, frag_grenade, krak_grenade
+combi_flamer_flamer, frag_grenade, krak_grenad
+combi_grav_boltgun, frag_grenade, krak_grenade
+combi_grav_gravgun, frag_grenade, krak_grenade
+combi_melta_boltgun, frag_grenade, krak_grenade
+combi_melta_meltagun, frag_grenade, krak_grenade
+combi_plasma_boltgun, frag_grenade, krak_grenade
+combi_plasma_plasma_gun, frag_grenade, krak_grenade
+bolt_pistol, chainsword
+bolt_pistol, power_fost
+bolt_pistol, power_sword
+bolt_pistol, auspex
+plasma_pistol, chainsword
+plasma_pistol, power_fost
+plasma_pistol, power_sword
+plasma_pistol, auspex
+grav_pistol, chainsword
+grav_pistol, power_fost
+grav_pistol, power_sword
+grav_pistol, auspex"
+adeptus_astartus,reiver,"6""",3+,3+,4,4,2,2,7,3+,,"bolt_carbine, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade
+bolt_carbine, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade, grav_chute
+bolt_carbine, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade, grapnel_launcher
+bolt_carbine, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade, grav_chute, grapnel_launcher
+combat_knife, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade
+combat_knife, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade, grav_chute
+combat_knife, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade, grapnel_launcher
+combat_knife, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade, grav_chute, grapnel_launcher"
+adeptus_astartus,reiver_sergeant,"6""",3+,3+,4,4,2,3,8,3+,1,"bolt_carbine, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade
+bolt_carbine, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade, grav_chute
+bolt_carbine, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade, grapnel_launcher
+bolt_carbine, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade, grav_chute, grapnel_launcher
+combat_knife, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade
+combat_knife, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade, grav_chute
+combat_knife, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade, grapnel_launcher
+combat_knife, heavy_bolt_pistol, frag_grenade, krak_grenade, shock_grenade, grav_chute, grapnel_launcher
+bolt_carbine, combat_knife, frag_grenade, krak_grenade, shock_grenade
+bolt_carbine, combat_knife, frag_grenade, krak_grenade, shock_grenade, grav_chute
+bolt_carbine, combat_knife, frag_grenade, krak_grenade, shock_grenade, grapnel_launcher
+bolt_carbine, combat_knife, frag_grenade, krak_grenade, shock_grenade, grav_chute, grapnel_launcher"
+adeptus_astartus,intercessor,"6""",3+,3+,4,4,2,2,7,3+,,"bolt_rifle, bolt_pistol, frag_grenade, krak_grenade
+auto_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade
+stalker_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade"
+adeptus_astartus,intercessor_gunner,"6""",3+,3+,4,4,2,2,7,3+,2,"bolt_rifle, bolt_pistol, frag_grenade, krak_grenade
+auto_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade
+stalker_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade
+bolt_rifle, bolt_pistol, frag_grenade, krak_grenade, auxiliary_grenade_launcher
+auto_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade, auxiliary_grenade_launcher
+stalker_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade, auxiliary_grenade_launcher"
+adeptus_astartus,intercessor_sergeant,"6""",3+,3+,4,4,2,3,8,3+,1,"bolt_rifle, bolt_pistol, frag_grenade, krak_grenade
+auto_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade
+stalker_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade
+bolt_rifle, bolt_pistol, frag_grenade, krak_grenade, powersword
+auto_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade, powersword
+stalker_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade, powersword
+bolt_rifle, bolt_pistol, frag_grenade, krak_grenade, chainsword
+auto_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade, chainsword
+stalker_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade, chainsword
+power_sword, bolt_pistol, frag_grenade, krak_grenade
+chainsword, bolt_pistol, frag_grenade, krak_grenade
+auto_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade
+stalker_bolt_rifle, bolt_pistol, frag_grenade, krak_grenade"
+astra_militum,guardsman,"6""",4+,4+,3,3,1,1,6,5+,,"lasgun, frag_grenade
+lasgun, frag_grenade, voxcaster"
+astra_militum,guardsman_gunner,"6""",4+,4+,3,3,1,1,6,5+,1,"lasgun, frag_grenade
+flamer, frag_grenade
+grenade_launcher_frag_grenade, frag_grenade
+grenade_launcher_krak_grenade, frag_grenade
+meltagun, frag_grenade
+plasma_gun_standard, frag_grenade
+plasma_gun_supercharge, frag_grenade
+sniper_rifle, frag_grenade"
+astra_militum,sergeant,"6""",4+,4+,3,3,1,2,7,5+,1,"laspistol, chainsword, frag_grenade
+laspistol, power_sword, frag_grenade
+plasma_pistol_standard, chainsword, frag_grenade
+plasma_pistol_supercharge, chainsword, frag_grenade
+bolt_pistol, chainsword, frag_grenade"
+astra_militum,special_weapons_guardsman,"6""",4+,4+,3,3,1,1,6,5+,,"lasgun, frag_grenade"
+astra_militum,special_weapons_gunner,"6""",4+,4+,3,3,1,1,6,5+,3,"lasgun, frag_grenade
+flamer, frag_grenade
+grenade_launcher_frag_grenade, frag_grenade
+grenade_launcher_krak_grenade, frag_grenade
+meltagun, frag_grenade
+plasma_gun_standard, frag_grenade
+plasma_gun_supercharge, frag_grenade
+sniper_rifle, frag_grenade"
+astra_militum,scion,"6""",4+,3+,3,3,1,1,6,4+,,"hotshot_lasgun, frag_grenade, krak_grenade
+hotshot_lasgun, frag_grenade, krak_grenade, voxcaster"
+astra_militum,scion_gunner,"6""",4+,3+,3,3,1,1,6,4+,4,"flamer, frag_grenade, krak_grenade
+meltagun, frag_grenade, krak_grenade
+plasma_gun_standard, frag_grenade, krak_grenade
+plasma_gun_supercharge, frag_grenade, krak_grenade
+hotshot_volley_gun, frag_grenade, krak_grenade"
+astra_militum,tempestor,"6""",3+,3+,3,3,1,2,7,4+,1,"hotshot_laspistol, chainsword, frag_grenade, krak_grenade
+bolt_pistol, chainsword, frag_grenade, krak_grenade
+plasma_pistol_standard, chainsword, frag_grenade, krak_grenade
+plasma_pistol_supercharge, chainsword, frag_grenade, krak_grenade
+hotshot_laspistol, power_sword, frag_grenade, krak_grenade
+bolt_pistol, power_sword, frag_grenade, krak_grenade
+plasma_pistol_standard, power_sword, frag_grenade, krak_grenade
+plasma_pistol_supercharge, power_sword, frag_grenade, krak_grenade
+hotshot_laspistol, power_fist, frag_grenade, krak_grenade
+bolt_pistol, power_fist, frag_grenade, krak_grenade
+plasma_pistol_standard, power_fist, frag_grenade, krak_grenade
+plasma_pistol_supercharge, power_fist, frag_grenade, krak_grenade"
+thousand_sons,rubric_marine,"5""",3+,3+,4,4,1,1,7,3+,,"inferno_boltgun
+warpflamer
+inferno_boltgun, icon_of_flame
+warpflamer, icon_of_flame"
+thousand_sons,rubric_marine_gunner,"5""",3+,3+,4,4,1,1,7,3+,1,"soulreaper_cannon
+inferno_boltgun"
+thousand_sons,aspiring_sorcerer,"6""",3+,3+,4,4,1,2,8,3+,1,"force_stave, inferno_bolt_pistol
+force_stave, warpflame_pistol"
+thousand_sons,tzaangor,"6""",3+,4+,4,4,1,1,6,6+,,"tzaangor_blade
+auto_pistol, chainsword
+tzaangor_blade, brayhorn
+auto_pistol, chainsword, brayhorn"
+thousand_sons,twistbray,"6""",3+,4+,4,4,1,2,7,6+,1,"tzaangor_blade
+auto_pistol, chainsword"
+drukhari,kabalite_warrior,"7""",3+,3+,3,3,1,1,7,5+,,splinter_rifle
+drukhari,kabalite_gunner,"7""",3+,3+,3,3,1,1,7,5+,2,"splinter_rifle
+splinter_cannon
+dark_lance
+shredder
+blaster"
+drukhari,sybarite,"7""",3+,3+,3,3,1,2,8,5+,1,"splinter_rifle
+splinter_rifle, power_sword
+splinter_rifle, agoniser
+splinter_rifle, phantasm_grenade_launcher
+splinter_rifle, power_sword, phantasm_grenade_launcher
+splinter_rifle, agoniser, phantasm_grenade_launcher
+splinter_pistol
+splinter_pistol, power_sword
+splinter_pistol, agoniser
+splinter_pistol, phantasm_grenade_launcher
+splinter_pistol, power_sword, phantasm_grenade_launcher
+splinter_pistol, agoniser, phantasm_grenade_launcher
+blast_pistol
+blast_pistol, power_sword
+blast_pistol, agoniser
+blast_pistol, phantasm_grenade_launcher
+blast_pistol, power_sword, phantasm_grenade_launcher
+blast_pistol, agoniser, phantasm_grenade_launcher"
+drukhari,wych,"8""",3+,3+,3,3,1,2,7,6+,,"splinter_pistol, hekatarii_blade, plasma_grenade"
+drukhari,wych_fighter,"8""",3+,3+,3,3,1,2,7,6+,3,"splinter_pistol, hekatarii_blade, plasma_grenade
+hydra_gauntlet, plasma_grenade
+razorflail, hekatarii_blade, plasma_grenade
+shardnet_and_ impaler, hekatarii_blade, plasma_grenade"
+drukhari,hekatrix,"8""",3+,3+,3,3,1,3,8,6+,1,"splinter_pistol, hekatarii_blade, plasma_grenade
+splinter_pistol, power_sword, plasma_grenade
+splinter_pistol, agoniser, plasma_grenade
+splinter_pistol, hekatarii_blade, plasma_grenade, phantasm_grenade_launcher
+splinter_pistol, power_sword, plasma_grenade, phantasm_grenade_launcher
+splinter_pistol, agoniser, plasma_grenade, phantasm_grenade_launcher
+blast_pistol, hekatarii_blade, plasma_grenade
+blast_pistol, power_sword, plasma_grenade
+blast_pistol, agoniser, plasma_grenade
+blast_pistol, hekatarii_blade, plasma_grenade, phantasm_grenade_launcher
+blast_pistol, power_sword, plasma_grenade, phantasm_grenade_launcher
+blast_pistol, agoniser, plasma_grenade, phantasm_grenade_launcher"
+necrons,necron_warrior,"5""",3+,3+,4,4,1,1,10,4+,,gauss_flayer
+necrons,immortal,"5""",3+,3+,4,4,1,1,10,3+,,"gauss_blaster
+tesla_carbine"
+necrons,flayed_one,"5""",3+,6+,4,4,1,3,10,4+,,flayer_claws
+necrons,deathmark,"5""",3+,3+,4,4,1,1,10,3+,,synaptic_disintegrator
+t'au_empire,shas’la,"6""",5+,4+,3,3,1,1,6,4+,,"pulse_rifle, photon_grenades
+pulse_carbine, photon_grenades
+pulse_rifle, photon_grenades, pulse_pistol
+pulse_carbine, photon_grenades, pulse_pistol"
+t'au_empire,shas’ui,"6""",5+,4+,3,3,1,2,7,4+,1,"pulse_rifle, photon_grenades
+pulse_carbine, photon_grenades
+pulse_rifle, photon_grenades, pulse_pistol
+pulse_carbine, photon_grenades, pulse_pistol
+pulse_pistol, photon_grenades
+pulse_pistol, photon_grenades, pulse_pistol
+pulse_rifle, photon_grenades, markerlight
+pulse_carbine, photon_grenades, markerlight
+pulse_rifle, photon_grenades, pulse_pistol, markerlight
+pulse_carbine, photon_grenades, pulse_pistol, markerlight
+pulse_pistol, photon_grenades, markerlight
+pulse_pistol, photon_grenades, pulse_pistol, markerlight"
+t'au_empire,ds8_tactical_support_turret,"0""",0,4+,3,3,1,0,4,4+,1,"missile_pod
+smart_missile_system"
+t'au_empire,pathfinder,"7""",5+,4+,3,3,1,1,6,5+,,"pulse carbine, markerlight, photon grenades"
+t'au_empire,pathfinder_gunner,"7""",5+,4+,3,3,1,1,6,5+,3,"pulse carbine, markerlight, photon grenades
+ion_rifle_standard, photon grenades
+ion_rifle_overcharge, photon grenades
+rail_rifle, photon grenades"
+t'au_empire,pathfinder_shas’ui,"7""",5+,4+,3,3,1,2,7,5+,1,"pulse carbine, markerlight, photon grenades
+pulse carbine, markerlight, photon grenades, pulse_pistol"
+t'au_empire,breacher_shas’la,"6""",5+,4+,3,3,1,1,6,4+,,"pulse_blaster_close_range, photon_grenade
+pulse_blaster_close_range, photon_grenade, pulse pistol
+pulse_blaster_medium_range, photon_grenade
+pulse_blaster_medium_range, photon_grenade, pulse pistol
+pulse_blaster_long_range, photon_grenade
+pulse_blaster_long_range, photon_grenade, pulse pistol"
+t'au_empire,breacher_shas’ui,"6""",5+,4+,3,3,1,2,7,4+,1,"pulse_blaster_close_range, photon_grenade
+pulse_blaster_close_range, photon_grenade, pulse pistol
+pulse_blaster_medium_range, photon_grenade
+pulse_blaster_medium_range, photon_grenade, pulse pistol
+pulse_blaster_long_range, photon_grenade
+pulse_blaster_long_range, photon_grenade, pulse pistol
+pulse_pistol, photon_grenade
+pulse_blaster_close_range, photon_grenade, markerlight
+pulse_blaster_close_range, photon_grenade, pulse pistol, markerlight
+pulse_blaster_medium_range, photon_grenade, markerlight
+pulse_blaster_medium_range, photon_grenade, pulse pistol, markerlight
+pulse_blaster_long_range, photon_grenade, markerlight
+pulse_blaster_long_range, photon_grenade, pulse pistol, markerlight
+pulse_pistol, photon_grenade, markerlight"
+t'au_empire,stealth_shas’ui,"8""",5+,4+,4,4,2,2,7,3+,,"burst_cannon
+fusion_blaster"
+t'au_empire,stealth_shas’vre,"8""",5+,4+,4,4,2,3,8,3+,1,"burst_cannon
+fusion_blaster
+burst_cannon, markerlight, target_lock
+fusion_blaster, markerlight, target_lock"
+t'au_empire,mv1_gun_drone,"8""",5+,5+,3,4,1,1,6,5+,,"pulse carbine, pulse carbine"
+t'au_empire,mv4_shield_drone,"8""",5+,5+,3,4,1,1,6,5+,,shield_generator
+t'au_empire,mv7_marker_drone,"8""",5+,5+,3,4,1,1,6,5+,,markerlight
+t'au_empire,mv36_guardian_drone,"8""",5+,5+,3,4,1,1,6,5+,1,
+t'au_empire,mv33_grav-inhibitor_drone,"8""",5+,5+,3,4,1,1,6,5+,1,
+t'au_empire,mv31_pulse_accelerator_drone,"8""",5+,5+,3,4,1,1,6,5+,1,
+t'au_empire,mb3_recon_drone,"8""",5+,5+,4,4,2,1,6,5+,1,burst_cannon
+tyranids,termagant,"6""",4+,4+,3,3,1,1,5,6+,,"fleshborer
+devourer
+spinefists
+fleshborer, toxin_sac
+devourer, toxin_sac
+spinefists, toxin_sac
+fleshborer, toxin_sac, adrenal_glands
+devourer, toxin_sac, adrenal_glands
+spinefists, toxin_sac, adrenal_glands
+fleshborer, adrenal_glands
+devourer, adrenal_glands
+spinefists, adrenal_glands"
+tyranids,hormagaunt,"8""",4+,4+,3,3,1,2,5,6+,,"scything_talon
+scything_talon, toxin_sac
+scything_talon, adrenal_gland
+scything_talon, toxin_sac, adrenal_gland"
+tyranids,lictor,"9""",2+,4+,6,4,4,3,9,5+,,"flesh_hook, grasping_talon, rending_claw"
+tyranids,tyranid_warrior,"6""",3+,4+,4,4,3,3,9,4+,,"scything_talon, devourer
+rending_claw, devourer
+bonesword, devourer
+lash_whip_and_bonesword, devourer
+scything_talon, deathspitter
+rending_claw, deathspitter
+bonesword, deathspitter
+lash_whip_and_bonesword, deathspitter
+scything_talon, spinefist
+rending_claw, spinefist
+bonesword, spinefist
+lash_whip_and_bonesword, spinefist
+scything_talon, rending_claw
+bonesword, rending_claw
+lash_whip_and_bonesword, rending_claw
+scything_talon, bonesword
+rending_claw, bonesword
+lash_whip_and_bonesword, bonesword
+rending_claw, scything_talon
+bonesword, scything_talon
+lash_whip_and_bonesword, scything_talon
+scything_talon, lash_whip_and_bonesword
+rending_claw, lash_whip_and_bonesword
+bonesword, lash_whip_and_bonesword
+scything_talon, devourer, flesh_hook
+rending_claw, devourer, flesh_hook
+bonesword, devourer, flesh_hook
+lash_whip_and_bonesword, devourer, flesh_hook
+scything_talon, deathspitter, flesh_hook
+rending_claw, deathspitter, flesh_hook
+bonesword, deathspitter, flesh_hook
+lash_whip_and_bonesword, deathspitter, flesh_hook
+scything_talon, spinefist, flesh_hook
+rending_claw, spinefist, flesh_hook
+bonesword, spinefist, flesh_hook
+lash_whip_and_bonesword, spinefist, flesh_hook
+scything_talon, rending_claw, flesh_hook
+bonesword, rending_claw, flesh_hook
+lash_whip_and_bonesword, rending_claw, flesh_hook
+scything_talon, bonesword, flesh_hook
+rending_claw, bonesword, flesh_hook
+lash_whip_and_bonesword, bonesword, flesh_hook
+rending_claw, scything_talon, flesh_hook
+bonesword, scything_talon, flesh_hook
+lash_whip_and_bonesword, scything_talon, flesh_hook
+scything_talon, lash_whip_and_bonesword, flesh_hook
+rending_claw, lash_whip_and_bonesword, flesh_hook
+bonesword, lash_whip_and_bonesword, flesh_hook
+scything_talon, devourer, flesh_hook, toxin_sac
+rending_claw, devourer, flesh_hook, toxin_sac
+bonesword, devourer, flesh_hook, toxin_sac
+lash_whip_and_bonesword, devourer, flesh_hook, toxin_sac
+scything_talon, deathspitter, flesh_hook, toxin_sac
+rending_claw, deathspitter, flesh_hook, toxin_sac
+bonesword, deathspitter, flesh_hook, toxin_sac
+lash_whip_and_bonesword, deathspitter, flesh_hook, toxin_sac
+scything_talon, spinefist, flesh_hook, toxin_sac
+rending_claw, spinefist, flesh_hook, toxin_sac
+bonesword, spinefist, flesh_hook, toxin_sac
+lash_whip_and_bonesword, spinefist, flesh_hook, toxin_sac
+scything_talon, rending_claw, flesh_hook, toxin_sac
+bonesword, rending_claw, flesh_hook, toxin_sac
+lash_whip_and_bonesword, rending_claw, flesh_hook, toxin_sac
+scything_talon, bonesword, flesh_hook, toxin_sac
+rending_claw, bonesword, flesh_hook, toxin_sac
+lash_whip_and_bonesword, bonesword, flesh_hook, toxin_sac
+rending_claw, scything_talon, flesh_hook, toxin_sac
+bonesword, scything_talon, flesh_hook, toxin_sac
+lash_whip_and_bonesword, scything_talon, flesh_hook, toxin_sac
+scything_talon, lash_whip_and_bonesword, flesh_hook, toxin_sac
+rending_claw, lash_whip_and_bonesword, flesh_hook, toxin_sac
+bonesword, lash_whip_and_bonesword, flesh_hook, toxin_sac
+scything_talon, devourer, flesh_hook, toxin_sac, adrenal_gland
+rending_claw, devourer, flesh_hook, toxin_sac, adrenal_gland
+bonesword, devourer, flesh_hook, toxin_sac, adrenal_gland
+lash_whip_and_bonesword, devourer, flesh_hook, toxin_sac, adrenal_gland
+scything_talon, deathspitter, flesh_hook, toxin_sac, adrenal_gland
+rending_claw, deathspitter, flesh_hook, toxin_sac, adrenal_gland
+bonesword, deathspitter, flesh_hook, toxin_sac, adrenal_gland
+lash_whip_and_bonesword, deathspitter, flesh_hook, toxin_sac, adrenal_gland
+scything_talon, spinefist, flesh_hook, toxin_sac, adrenal_gland
+rending_claw, spinefist, flesh_hook, toxin_sac, adrenal_gland
+bonesword, spinefist, flesh_hook, toxin_sac, adrenal_gland
+lash_whip_and_bonesword, spinefist, flesh_hook, toxin_sac, adrenal_gland
+scything_talon, rending_claw, flesh_hook, toxin_sac, adrenal_gland
+bonesword, rending_claw, flesh_hook, toxin_sac, adrenal_gland
+lash_whip_and_bonesword, rending_claw, flesh_hook, toxin_sac, adrenal_gland
+scything_talon, bonesword, flesh_hook, toxin_sac, adrenal_gland
+rending_claw, bonesword, flesh_hook, toxin_sac, adrenal_gland
+lash_whip_and_bonesword, bonesword, flesh_hook, toxin_sac, adrenal_gland
+rending_claw, scything_talon, flesh_hook, toxin_sac, adrenal_gland
+bonesword, scything_talon, flesh_hook, toxin_sac, adrenal_gland
+lash_whip_and_bonesword, scything_talon, flesh_hook, toxin_sac, adrenal_gland
+scything_talon, lash_whip_and_bonesword, flesh_hook, toxin_sac, adrenal_gland
+rending_claw, lash_whip_and_bonesword, flesh_hook, toxin_sac, adrenal_gland
+bonesword, lash_whip_and_bonesword, flesh_hook, toxin_sac, adrenal_gland
+scything_talon, devourer, flesh_hook, adrenal_gland
+rending_claw, devourer, flesh_hook, adrenal_gland
+bonesword, devourer, flesh_hook, adrenal_gland
+lash_whip_and_bonesword, devourer, flesh_hook, adrenal_gland
+scything_talon, deathspitter, flesh_hook, adrenal_gland
+rending_claw, deathspitter, flesh_hook, adrenal_gland
+bonesword, deathspitter, flesh_hook, adrenal_gland
+lash_whip_and_bonesword, deathspitter, flesh_hook, adrenal_gland
+scything_talon, spinefist, flesh_hook, adrenal_gland
+rending_claw, spinefist, flesh_hook, adrenal_gland
+bonesword, spinefist, flesh_hook, adrenal_gland
+lash_whip_and_bonesword, spinefist, flesh_hook, adrenal_gland
+scything_talon, rending_claw, flesh_hook, adrenal_gland
+bonesword, rending_claw, flesh_hook, adrenal_gland
+lash_whip_and_bonesword, rending_claw, flesh_hook, adrenal_gland
+scything_talon, bonesword, flesh_hook, adrenal_gland
+rending_claw, bonesword, flesh_hook, adrenal_gland
+lash_whip_and_bonesword, bonesword, flesh_hook, adrenal_gland
+rending_claw, scything_talon, flesh_hook, adrenal_gland
+bonesword, scything_talon, flesh_hook, adrenal_gland
+lash_whip_and_bonesword, scything_talon, flesh_hook, adrenal_gland
+scything_talon, lash_whip_and_bonesword, flesh_hook, adrenal_gland
+rending_claw, lash_whip_and_bonesword, flesh_hook, adrenal_gland
+bonesword, lash_whip_and_bonesword, flesh_hook, adrenal_gland
+scything_talon, devourer, adrenal_gland
+rending_claw, devourer, adrenal_gland
+bonesword, devourer, adrenal_gland
+lash_whip_and_bonesword, devourer, adrenal_gland
+scything_talon, deathspitter, adrenal_gland
+rending_claw, deathspitter, adrenal_gland
+bonesword, deathspitter, adrenal_gland
+lash_whip_and_bonesword, deathspitter, adrenal_gland
+scything_talon, spinefist, adrenal_gland
+rending_claw, spinefist, adrenal_gland
+bonesword, spinefist, adrenal_gland
+lash_whip_and_bonesword, spinefist, adrenal_gland
+scything_talon, rending_claw, adrenal_gland
+bonesword, rending_claw, adrenal_gland
+lash_whip_and_bonesword, rending_claw, adrenal_gland
+scything_talon, bonesword, adrenal_gland
+rending_claw, bonesword, adrenal_gland
+lash_whip_and_bonesword, bonesword, adrenal_gland
+rending_claw, scything_talon, adrenal_gland
+bonesword, scything_talon, adrenal_gland
+lash_whip_and_bonesword, scything_talon, adrenal_gland
+scything_talon, lash_whip_and_bonesword, adrenal_gland
+rending_claw, lash_whip_and_bonesword, adrenal_gland
+bonesword, lash_whip_and_bonesword, adrenal_gland
+scything_talon, devourer, toxin_sac
+rending_claw, devourer, toxin_sac
+bonesword, devourer, toxin_sac
+lash_whip_and_bonesword, devourer, toxin_sac
+scything_talon, deathspitter, toxin_sac
+rending_claw, deathspitter, toxin_sac
+bonesword, deathspitter, toxin_sac
+lash_whip_and_bonesword, deathspitter, toxin_sac
+scything_talon, spinefist, toxin_sac
+rending_claw, spinefist, toxin_sac
+bonesword, spinefist, toxin_sac
+lash_whip_and_bonesword, spinefist, toxin_sac
+scything_talon, rending_claw, toxin_sac
+bonesword, rending_claw, toxin_sac
+lash_whip_and_bonesword, rending_claw, toxin_sac
+scything_talon, bonesword, toxin_sac
+rending_claw, bonesword, toxin_sac
+lash_whip_and_bonesword, bonesword, toxin_sac
+rending_claw, scything_talon, toxin_sac
+bonesword, scything_talon, toxin_sac
+lash_whip_and_bonesword, scything_talon, toxin_sac
+scything_talon, lash_whip_and_bonesword, toxin_sac
+rending_claw, lash_whip_and_bonesword, toxin_sac
+bonesword, lash_whip_and_bonesword, toxin_sac"
+tyranids,tyranid_warrior_gunner,"6""",3+,4+,4,4,3,3,9,4+,1,"scything_talon, devourer
+rending_claw, devourer
+bonesword, devourer
+lash_whip_and_bonesword, devourer
+scything_talon, barbed_strangler
+scything_talon, venom_cannon
+rending_claw, barbed_strangler
+rending_claw, venom_cannon
+bonesword, barbed_strangler
+bonesword, venom_cannon
+lash_whip_and_bonesword, barbed_strangler
+lash_whip_and_bonesword, venom_cannon
+scything_talon, devourer, flesh_hook
+rending_claw, devourer, flesh_hook
+bonesword, devourer, flesh_hook
+lash_whip_and_bonesword, devourer, flesh_hook
+scything_talon, barbed_strangler, flesh_hook
+scything_talon, venom_cannon, flesh_hook
+rending_claw, barbed_strangler, flesh_hook
+rending_claw, venom_cannon, flesh_hook
+bonesword, barbed_strangler, flesh_hook
+bonesword, venom_cannon, flesh_hook
+lash_whip_and_bonesword, barbed_strangler, flesh_hook
+lash_whip_and_bonesword, venom_cannon, flesh_hook
+scything_talon, devourer, flesh_hook, toxin_sac
+rending_claw, devourer, flesh_hook, toxin_sac
+bonesword, devourer, flesh_hook, toxin_sac
+lash_whip_and_bonesword, devourer, flesh_hook, toxin_sac
+scything_talon, barbed_strangler, flesh_hook, toxin_sac
+scything_talon, venom_cannon, flesh_hook, toxin_sac
+rending_claw, barbed_strangler, flesh_hook, toxin_sac
+rending_claw, venom_cannon, flesh_hook, toxin_sac
+bonesword, barbed_strangler, flesh_hook, toxin_sac
+bonesword, venom_cannon, flesh_hook, toxin_sac
+lash_whip_and_bonesword, barbed_strangler, flesh_hook, toxin_sac
+lash_whip_and_bonesword, venom_cannon, flesh_hook, toxin_sac
+scything_talon, devourer, flesh_hook, toxin_sac, adrenal_gland
+rending_claw, devourer, flesh_hook, toxin_sac, adrenal_gland
+bonesword, devourer, flesh_hook, toxin_sac, adrenal_gland
+lash_whip_and_bonesword, devourer, flesh_hook, toxin_sac, adrenal_gland
+scything_talon, barbed_strangler, flesh_hook, toxin_sac, adrenal_gland
+scything_talon, venom_cannon, flesh_hook, toxin_sac, adrenal_gland
+rending_claw, barbed_strangler, flesh_hook, toxin_sac, adrenal_gland
+rending_claw, venom_cannon, flesh_hook, toxin_sac, adrenal_gland
+bonesword, barbed_strangler, flesh_hook, toxin_sac, adrenal_gland
+bonesword, venom_cannon, flesh_hook, toxin_sac, adrenal_gland
+lash_whip_and_bonesword, barbed_strangler, flesh_hook, toxin_sac, adrenal_gland
+lash_whip_and_bonesword, venom_cannon, flesh_hook, toxin_sac, adrenal_gland
+scything_talon, devourer, toxin_sac
+rending_claw, devourer, toxin_sac
+bonesword, devourer, toxin_sac
+lash_whip_and_bonesword, devourer, toxin_sac
+scything_talon, barbed_strangler, toxin_sac
+scything_talon, venom_cannon, toxin_sac
+rending_claw, barbed_strangler, toxin_sac
+rending_claw, venom_cannon, toxin_sac
+bonesword, barbed_strangler, toxin_sac
+bonesword, venom_cannon, toxin_sac
+lash_whip_and_bonesword, barbed_strangler, toxin_sac
+lash_whip_and_bonesword, venom_cannon, toxin_sac
+scything_talon, devourer, adrenal_gland
+rending_claw, devourer, adrenal_gland
+bonesword, devourer, adrenal_gland
+lash_whip_and_bonesword, devourer, adrenal_gland
+scything_talon, barbed_strangler, adrenal_gland
+scything_talon, venom_cannon, adrenal_gland
+rending_claw, barbed_strangler, adrenal_gland
+rending_claw, venom_cannon, adrenal_gland
+bonesword, barbed_strangler, adrenal_gland
+bonesword, venom_cannon, adrenal_gland
+lash_whip_and_bonesword, barbed_strangler, adrenal_gland
+lash_whip_and_bonesword, venom_cannon, adrenal_gland
+scything_talon, devourer, flesh_hook, adrenal_gland
+rending_claw, devourer, flesh_hook, adrenal_gland
+bonesword, devourer, flesh_hook, adrenal_gland
+lash_whip_and_bonesword, devourer, flesh_hook, adrenal_gland
+scything_talon, barbed_strangler, flesh_hook, adrenal_gland
+scything_talon, venom_cannon, flesh_hook, adrenal_gland
+rending_claw, barbed_strangler, flesh_hook, adrenal_gland
+rending_claw, venom_cannon, flesh_hook, adrenal_gland
+bonesword, barbed_strangler, flesh_hook, adrenal_gland
+bonesword, venom_cannon, flesh_hook, adrenal_gland
+lash_whip_and_bonesword, barbed_strangler, flesh_hook, adrenal_gland
+lash_whip_and_bonesword, venom_cannon, flesh_hook, adrenal_gland"
+tyranids,genestealer,"8""",3+,4+,4,4,1,3,9,5+,,"rending_claw
+rending_claw, scything_talon
+rending_claw, toxin_sac
+rending_claw, scything_talon, toxin_sac
+rending_claw, extended_carapace
+rending_claw, scything_talon, extended_carapace
+rending_claw, toxin_sac, extended_carapace
+rending_claw, scything_talon, toxin_sac, extended_carapace
+rending_claw, flesh_hook
+rending_claw, scything_talon, flesh_hook
+rending_claw, toxin_sac, flesh_hook
+rending_claw, scything_talon, toxin_sac, flesh_hook
+rending_claw, extended_carapace, flesh_hook
+rending_claw, scything_talon, extended_carapace, flesh_hook
+rending_claw, toxin_sac, extended_carapace, flesh_hook
+rending_claw, scything_talon, toxin_sac, extended_carapace, flesh_hook
+rending_claw, acid_maw
+rending_claw, scything_talon, acid_maw
+rending_claw, toxin_sac, acid_maw
+rending_claw, scything talon, toxin_sac, acid_maw
+rending_claw, extended_carapace, acid_maw
+rending_claw, scything_talon, extended_carapace, acid_maw
+rending_claw, toxin_sac, extended_carapace, acid_maw
+rending_claw, scything_talon, toxin_sac, extended_carapace, acid_maw"
